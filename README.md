@@ -20,3 +20,4 @@ JavaScript: Implemented dynamic functionalities for engaging and responsive game
 
 Contributing
 We welcome contributions from the community! If you'd like to contribute to Tic-Tac-Toe Mastery, please fork the repository and submit a pull request with your changes.
+
